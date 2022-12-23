@@ -5,7 +5,7 @@ import os
 #r = root directory
 #d = a list with the subdirectories in the root directory
 #f = a list with all the files in the root directory
-#Pulled on 23 Dec 2022 
+#Pulled on 23 Dec 2022 and merged on 23 Dec 2022
 
 class FindArgs:
    """docstring for FindArgs"""
